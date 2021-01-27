@@ -1,7 +1,8 @@
 # Meu tema LXDE
 
+![Print](https://github.com/Will-Shizu/my-lxde-theme/blob/main/print.png)
 
-### Main Theme
+## Main Theme
 Como tema principal eu utilizei o Dracula blue, uma versão mdificada do tema drácula.
 
 **Download:**
@@ -10,9 +11,8 @@ Como tema principal eu utilizei o Dracula blue, uma versão mdificada do tema dr
 
 [Acessar GitHub](https://github.com/Michedev/Ant-Dracula-Blue)
 
----
 
-### Open box theme
+## Open box theme
 Eu usei o tema dracula open box sem borda no geranciador de janelas Open Box.
 
 **Download:**
@@ -21,10 +21,8 @@ Eu usei o tema dracula open box sem borda no geranciador de janelas Open Box.
 
 [Acessar GitHub](https://github.com/the-zero885/dracula-Openbox)
 
----
 
-
-### Icons
+## Icons
 Como pacote de icones eu utilizei o Papirus Dark que funcionou melhor o tema principal.
 
 **Instalar:**
@@ -36,10 +34,8 @@ sudo apt-get install papirus-icon-theme
 
 [Acessar GitHub](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
----
 
-
-### Cursor
+## Cursor
 Para o cursor eu utilizei o tema Beeze.
 
 **Instalar:**
@@ -47,10 +43,7 @@ Para o cursor eu utilizei o tema Beeze.
 `sudo apt-get install -y breeze-cursor-theme`
 
 
----
-
-
-### Dockbar
+## Dockbar
 Utilizei plank com o tema do Deepin, especificamente o Large Black. O compositor utilizado foi o xcompmgr.
 
 **Instalar plank:**
@@ -64,32 +57,26 @@ Utilizei plank com o tema do Deepin, especificamente o Large Black. O compositor
 
 [Acessar página de download do tema](https://www.gnome-look.org/p/1333368/)
 
----
 
-
-### Font
+## Font
 A fonte utilizada foi a DejaVu Sans, com 10pt de tamanho, mas somente por motivos de compatibilidade, isso pode ser mudado depois.
 
 [Ver fonte](https://www.fontsquirrel.com/fonts/dejavu-sans)
 
----
 
-
-### Menu Icon e Wallpaper
+## Menu Icon e Wallpaper
 O menu eu mesmo personalizei, etão a imagem usada vai estar disponível nos arquivos do repositório.
 
 
-### Sublime theme
+## Sublime theme
 O tema que eu utilizei no meu editor de código foi o Ayu darker, muito lindo. Para habilitar ele é só pressionar `CTRL`+`SHIFT`+`p` e digitar "Install packages", lá é só pesquisar e instalar o Ayu Theme.
 
 Para ativar o tema, novamente pressione `CTRL`+`SHIFT`+`p` e pesquise por "ayu", selecione "activate theme" e está feito.
 
 [Acessar GitHub](https://github.com/dempfi/ayu)
 
----
 
-
-### Terminal
+## Terminal
 Para o terminal eu utilizei LXTerminal o zsh com o tema bira.
 
 **Intalar ZSH:**
