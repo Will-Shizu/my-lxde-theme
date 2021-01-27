@@ -15,7 +15,7 @@ Como tema principal eu utilizei o Dracula blue, uma versão mdificada do tema dr
 ## Open box theme
 Eu usei o tema dracula open box sem borda no geranciador de janelas Open Box.
 
-**Download:**
+### Download:
 
 `git clone https://github.com/the-zero885/dracula-Openbox`
 
@@ -25,7 +25,7 @@ Eu usei o tema dracula open box sem borda no geranciador de janelas Open Box.
 ## Icons
 Como pacote de icones eu utilizei o Papirus Dark que funcionou melhor o tema principal.
 
-**Instalar:**
+### Instalar:
 ```
 sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
@@ -38,7 +38,7 @@ sudo apt-get install papirus-icon-theme
 ## Cursor
 Para o cursor eu utilizei o tema Beeze.
 
-**Instalar:**
+### Instalar:
 
 `sudo apt-get install -y breeze-cursor-theme`
 
@@ -46,12 +46,12 @@ Para o cursor eu utilizei o tema Beeze.
 ## Dockbar
 Utilizei plank com o tema do Deepin, especificamente o Large Black. O compositor utilizado foi o xcompmgr.
 
-**Instalar plank:**
+### Instalar plank:
 
 `sudo apt install plank`
 
 
-**Instalar compositor:**
+### Instalar compositor:
 
 `sudo apt install xcompmgr`
 
@@ -65,7 +65,7 @@ A fonte utilizada foi a DejaVu Sans, com 10pt de tamanho, mas somente por motivo
 
 
 ## Menu Icon e Wallpaper
-O menu eu mesmo personalizei, etão a imagem usada vai estar disponível nos arquivos do repositório.
+O ícone do menu eu mesmo personalizei, etão a imagem usada vai estar disponível nos arquivos do repositório, bem como os wallpapers utilizados.
 
 
 ## Sublime theme
@@ -79,13 +79,13 @@ Para ativar o tema, novamente pressione `CTRL`+`SHIFT`+`p` e pesquise por "ayu",
 ## Terminal
 Para o terminal eu utilizei LXTerminal o zsh com o tema bira.
 
-**Intalar ZSH:**
+### Intalar ZSH:
 
 `sudo apt install zsh`
 
 Para habilitar o zsh veja [esse artigo](https://diolinux.com.br/linux/alterar-o-terminal-padrao-bash-zsh.html);
 
-**Instalar temas ZSH:**
+### Instalar temas ZSH:
 
 `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
