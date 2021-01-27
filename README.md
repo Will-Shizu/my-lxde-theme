@@ -5,7 +5,7 @@
 ## Main Theme
 Como tema principal eu utilizei o Dracula blue, uma versão mdificada do tema drácula.
 
-**Download:**
+### Download:
 
 `git clone https://github.com/Michedev/Ant-Dracula-Blue.git`
 
@@ -80,6 +80,7 @@ Para ativar o tema, novamente pressione `CTRL`+`SHIFT`+`p` e pesquise por "ayu",
 Para o terminal eu utilizei LXTerminal o zsh com o tema bira.
 
 **Intalar ZSH:**
+
 `sudo apt install zsh`
 
 Para habilitar o zsh veja [esse artigo](https://diolinux.com.br/linux/alterar-o-terminal-padrao-bash-zsh.html);
@@ -88,6 +89,6 @@ Para habilitar o zsh veja [esse artigo](https://diolinux.com.br/linux/alterar-o-
 
 `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
-[Mais infomações](sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)")
+[Mais infomações](https://github.com/ohmyzsh/ohmyzsh)
 
 Para trocar de tema é só editar o arquivo `.zshrc` na linha onde ele declara o tema, no caso, substitua por "bira". Em todo caso vou deixar o arquivo `.zshrc` e `.bashrc` no repositório.
